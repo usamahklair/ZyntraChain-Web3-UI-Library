@@ -20,7 +20,7 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 
 ## What's Inside
 
-Over 678 SVG vector logos for the most popular cryptocurrencies and blockchain projects, all clean, consistent, and ready to use in your Web3 projects.
+Over 100+ SVG vector logos for the most popular cryptocurrencies and blockchain projects, all clean, consistent, and ready to use in your Web3 projects.
 
 ## Usage
 
