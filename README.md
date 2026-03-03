@@ -1,6 +1,6 @@
 # ZyntraChain — Web3 UI Library
 
-An open-source Web3 library of vector-based UI components for blockchain and Web3 applications, designed to help developers and designers build consistent, user-friendly decentralized products for the community.
+A Web3 library of vector-based UI components for blockchain and Web3 applications, designed to help developers and designers build consistent, user-friendly decentralized products for the community.
 
 <br>
 
@@ -20,7 +20,7 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 
 ## What's Inside
 
-Over 678 SVG vector logos for the most popular cryptocurrencies and blockchain projects, all clean, consistent, and ready to use in your Web3 projects.
+Over 100+ SVG vector logos for the most popular cryptocurrencies and blockchain projects, all clean, consistent, and ready to use in your Web3 projects.
 
 ## Usage
 
