@@ -23,11 +23,11 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="Vector Logos/IOTA (MIOTA).svg" width="45" title="IOTA"/>
+  &nbsp;&nbsp;
   <img src="Vector Logos/Bitcoinz (Btcz).svg" width="45" title="Bitcoinz"/>
   &nbsp;&nbsp;
-  <img src="Vector Logos/Zcash (ZEC).svg" width="45" title="Zcash"/>
-  &nbsp;&nbsp;
-  <img src="Vector Logos/Zilliqa (ZIL).svg" width="45" title="Zilliqa"/>
+  <img src="Vector Logos/Polkadot (DOT).svg" width="45" title="Polkadot"/>
   &nbsp;&nbsp;
   <img src="Vector Logos/Waves (WAVES).svg" width="45" title="Waves"/>
   &nbsp;&nbsp;
@@ -92,7 +92,7 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 
 <br>
 
-📂 **[See All Logos →](./Vector%20Logos)**
+📂 **[See All Icons →](./Vector%20Logos)**
 
 ---
 
