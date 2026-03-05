@@ -23,6 +23,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="Vector Logos/Polymath (POLY).svg" width="45" title="Polymath"/>
+  &nbsp;&nbsp;
   <img src="Vector Logos/IOTA (MIOTA).svg" width="45" title="IOTA"/>
   &nbsp;&nbsp;
   <img src="Vector Logos/Bitcoinz (Btcz).svg" width="45" title="Bitcoinz"/>
@@ -40,8 +42,6 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
   <img src="Vector Logos/Tether (USDT).svg" width="45" title="Tether"/>
   &nbsp;&nbsp;
   <img src="Vector Logos/Stellar (XLM).svg" width="45" title="Stellar"/>
-  &nbsp;&nbsp;
-  <img src="Vector Logos/Solana (SOL).svg" width="45" title="Solana"/>
 </p>
 
 ---
