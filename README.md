@@ -23,6 +23,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="Vector Logos/Idex (IDEX).svg" width="45" title="Idex"/>
+  &nbsp;&nbsp;
   <img src="Vector Logos/Telos (TLOS).svg" width="45" title="Telos"/>
   &nbsp;&nbsp;
   <img src="Vector Logos/Polymath (POLY).svg" width="45" title="Polymath"/>
