@@ -23,6 +23,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Numeraire (NMR).svg" width="45" title="Numeraire"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Idex (Idex).svg" width="45" title="Idex"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Telos (TLOS).svg" width="45" title="Telos"/>
