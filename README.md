@@ -23,6 +23,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Proton (Xpr).svg" width="45" title="Proton"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Numeraire (NMR).svg" width="45" title="Numeraire"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Idex (Idex).svg" width="45" title="Idex"/>
@@ -46,8 +48,6 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
   <img src="SVG Version/TRON (TRX).svg" width="45" title="TRON"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Tether (USDT).svg" width="45" title="Tether"/>
-  &nbsp;&nbsp;
-  <img src="SVG Version/Stellar (XLM).svg" width="45" title="Stellar"/>
 </p>
 
 ---
