@@ -23,6 +23,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Cloudcoin (Cce).svg" width="45" title="Cloudcoin"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Kin (KIN).svg" width="45" title="Kin"/>
   &nbsp;&nbsp;
   <img src="SVG Version/SHIBA INU (SHIB).svg" width="45" title="Shiba Inu"/>
