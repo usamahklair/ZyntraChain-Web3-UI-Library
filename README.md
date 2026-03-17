@@ -23,6 +23,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Hifi Finance (MFT).svg" width="45" title="Hifi Finance"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Beam (BEAM).svg" width="45" title="Beam"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Dether (Dth).svg" width="45" title="Dether"/>
