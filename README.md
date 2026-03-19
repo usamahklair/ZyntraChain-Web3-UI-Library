@@ -23,7 +23,7 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
-  <img src="SVG Version/Gincoin (Gin).svg.svg" width="45" title="Gincoin"/>
+  <img src="SVG Version/Gincoin (Gin).svg" width="45" title="Gincoin"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Ethernity Chain (ERN).svg" width="45" title="Ethernity Chain"/>
   &nbsp;&nbsp;
