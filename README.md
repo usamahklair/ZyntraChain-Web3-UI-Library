@@ -23,6 +23,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Egretia (Egt).svg" width="45" title="Egretia"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Casper (CSPR).svg" width="45" title="Casper"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Bytecoin (BCN).svg" width="45" title="Bytecoin"/>
