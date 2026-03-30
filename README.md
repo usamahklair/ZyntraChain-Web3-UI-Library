@@ -23,6 +23,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Gobyte (Gbx).svg" width="45" title="Gobyte"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Aeron (Arnx).svg" width="45" title="Aeron"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Aurora (Aoa).svg" width="45" title="Aurora"/>
