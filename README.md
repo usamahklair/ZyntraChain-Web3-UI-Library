@@ -140,6 +140,14 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 
 ---
 
+## UI Components
+
+<p align="left">
+  <img src="SVG Components/Horizontal Bar Chart.svg" width="120" title="Horizontal Bar Chart"/>
+  </p>
+
+---
+
 ## 📦 What's Inside
 
 650+ Icons for the most popular cryptocurrencies and blockchain projects, all clean, consistent, and ready to use in your Web3 projects.
