@@ -20,6 +20,66 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 
 ---
 
+## UI Components
+
+<p align="left">
+  <img src="SVG Components/Price chart.svg" width="600" title="Price chart"/>
+  &nbsp;&nbsp;
+  <img src="SVG Components/Horizontal Bar Chart.svg" width="320" title="Horizontal Bar Chart"/>
+  </p>
+
+---
+
+## ⭐ Top 20 Most Popular
+
+<p align="left">
+  <img src="SVG Version/Bitcoin (BTC).svg" width="45" title="Bitcoin"/>
+  &nbsp;&nbsp;
+  <img src="SVG Version/Ethereum (ETH).svg" width="45" title="Ethereum"/>
+  &nbsp;&nbsp;
+  <img src="SVG Version/Binance Coin (BNB).svg" width="45" title="Binance Coin"/>
+  &nbsp;&nbsp;
+  <img src="SVG Version/Solana (SOL).svg" width="45" title="Solana"/>
+  &nbsp;&nbsp;
+  <img src="SVG Version/Cardano (ADA).svg" width="45" title="Cardano"/>
+  &nbsp;&nbsp;
+  <img src="SVG Version/XRP (XRP).svg" width="45" title="XRP"/>
+  &nbsp;&nbsp;
+  <img src="SVG Version/Polkadot (DOT).svg" width="45" title="Polkadot"/>
+  &nbsp;&nbsp;
+  <img src="SVG Version/Dogecoin (DOGE).svg" width="45" title="Dogecoin"/>
+  &nbsp;&nbsp;
+  <img src="SVG Version/Avalanche (AVAX).svg" width="45" title="Avalanche"/>
+  &nbsp;&nbsp;
+  <img src="SVG Version/Polygon (MATIC).svg" width="45" title="Polygon"/>
+  &nbsp;&nbsp;
+  <img src="SVG Version/Chainlink (LINK).svg" width="45" title="Chainlink"/>
+  &nbsp;&nbsp;
+  <img src="SVG Version/Litecoin (LTC).svg" width="45" title="Litecoin"/>
+  &nbsp;&nbsp;
+  <img src="SVG Version/Uniswap (UNI).svg" width="45" title="Uniswap"/>
+  &nbsp;&nbsp;
+  <img src="SVG Version/Algorand (ALGO).svg" width="45" title="Algorand"/>
+  &nbsp;&nbsp;
+  <img src="SVG Version/Stellar (XLM).svg" width="45" title="Stellar"/>
+  &nbsp;&nbsp;
+  <img src="SVG Version/Cosmos (ATOM).svg" width="45" title="Cosmos"/>
+  &nbsp;&nbsp;
+  <img src="SVG Version/Monero (XMR).svg" width="45" title="Monero"/>
+  &nbsp;&nbsp;
+  <img src="SVG Version/TRON (TRX).svg" width="45" title="TRON"/>
+  &nbsp;&nbsp;
+  <img src="SVG Version/Fantom (FTM).svg" width="45" title="Fantom"/>
+  &nbsp;&nbsp;
+  <img src="SVG Version/Aave (AAVE).svg" width="45" title="Aave"/>
+</p>
+
+<br>
+
+📂 **[See All Icons →](./SVG%20Version)**
+
+---
+
 ## 🕐 Recently Added
 
 <p align="left">
@@ -89,64 +149,6 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
   &nbsp;&nbsp;
   <img src="SVG Version/TRON (TRX).svg" width="45" title="TRON"/>
 </p>
-
----
-
-## ⭐ Top 20 Most Popular
-
-<p align="left">
-  <img src="SVG Version/Bitcoin (BTC).svg" width="45" title="Bitcoin"/>
-  &nbsp;&nbsp;
-  <img src="SVG Version/Ethereum (ETH).svg" width="45" title="Ethereum"/>
-  &nbsp;&nbsp;
-  <img src="SVG Version/Binance Coin (BNB).svg" width="45" title="Binance Coin"/>
-  &nbsp;&nbsp;
-  <img src="SVG Version/Solana (SOL).svg" width="45" title="Solana"/>
-  &nbsp;&nbsp;
-  <img src="SVG Version/Cardano (ADA).svg" width="45" title="Cardano"/>
-  &nbsp;&nbsp;
-  <img src="SVG Version/XRP (XRP).svg" width="45" title="XRP"/>
-  &nbsp;&nbsp;
-  <img src="SVG Version/Polkadot (DOT).svg" width="45" title="Polkadot"/>
-  &nbsp;&nbsp;
-  <img src="SVG Version/Dogecoin (DOGE).svg" width="45" title="Dogecoin"/>
-  &nbsp;&nbsp;
-  <img src="SVG Version/Avalanche (AVAX).svg" width="45" title="Avalanche"/>
-  &nbsp;&nbsp;
-  <img src="SVG Version/Polygon (MATIC).svg" width="45" title="Polygon"/>
-  &nbsp;&nbsp;
-  <img src="SVG Version/Chainlink (LINK).svg" width="45" title="Chainlink"/>
-  &nbsp;&nbsp;
-  <img src="SVG Version/Litecoin (LTC).svg" width="45" title="Litecoin"/>
-  &nbsp;&nbsp;
-  <img src="SVG Version/Uniswap (UNI).svg" width="45" title="Uniswap"/>
-  &nbsp;&nbsp;
-  <img src="SVG Version/Algorand (ALGO).svg" width="45" title="Algorand"/>
-  &nbsp;&nbsp;
-  <img src="SVG Version/Stellar (XLM).svg" width="45" title="Stellar"/>
-  &nbsp;&nbsp;
-  <img src="SVG Version/Cosmos (ATOM).svg" width="45" title="Cosmos"/>
-  &nbsp;&nbsp;
-  <img src="SVG Version/Monero (XMR).svg" width="45" title="Monero"/>
-  &nbsp;&nbsp;
-  <img src="SVG Version/TRON (TRX).svg" width="45" title="TRON"/>
-  &nbsp;&nbsp;
-  <img src="SVG Version/Fantom (FTM).svg" width="45" title="Fantom"/>
-  &nbsp;&nbsp;
-  <img src="SVG Version/Aave (AAVE).svg" width="45" title="Aave"/>
-</p>
-
-<br>
-
-📂 **[See All Icons →](./SVG%20Version)**
-
----
-
-## UI Components
-
-<p align="left">
-  <img src="SVG Components/Horizontal Bar Chart.svg" width="320" title="Horizontal Bar Chart"/>
-  </p>
 
 ---
 
