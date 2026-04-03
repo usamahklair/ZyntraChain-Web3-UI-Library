@@ -83,6 +83,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Hypercash (Hc).svg" width="45" title="Hypercash"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Expanse (Exp).svg" width="45" title="Expanse"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Gobyte (Gbx).svg" width="45" title="Gobyte"/>
