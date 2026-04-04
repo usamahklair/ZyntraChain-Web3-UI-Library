@@ -25,6 +25,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 <p align="center">
   <img src="SVG Components/Price chart.svg" width="700" title="Price chart"/>
   &nbsp;&nbsp;
+  <img src="SVG Components/Categories.svg" width="900" title="Categories"/>
+  &nbsp;&nbsp;
   <img src="SVG Components/Horizontal Bar Chart.svg" width="250" title="Horizontal Bar Chart"/>
   </p>
 
