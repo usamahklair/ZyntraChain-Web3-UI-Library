@@ -87,6 +87,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Smartcash (Smart).svg" width="45" title="Smartcash"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Hypercash (Hc).svg" width="45" title="Hypercash"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Expanse (Exp).svg" width="45" title="Expanse"/>
