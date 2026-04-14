@@ -89,6 +89,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Factom (Fct).svg" width="45" title="Factom"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Aragon (ANT).svg" width="45" title="Aragon"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Likecoin (Like).svg" width="45" title="Likecoin"/>
