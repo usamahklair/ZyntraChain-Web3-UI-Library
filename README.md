@@ -89,6 +89,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Stratis (STRAX).svg" width="45" title="Stratis"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Firo (FIRO).svg" width="45" title="Firo"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Factom (Fct).svg" width="45" title="Factom"/>
