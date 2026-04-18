@@ -89,6 +89,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Monnos (Mns).svg" width="45" title="Monnos"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Credits (Cs).svg" width="45" title="Credits"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Stratis (STRAX).svg" width="45" title="Stratis"/>
