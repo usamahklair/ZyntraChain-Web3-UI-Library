@@ -23,6 +23,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## UI Components
 
 <p align="left">
+  <img src="SVG Components/Coin Graph Card.svg" width="700" title="Coin Graph Card"/>
+  &nbsp;&nbsp;
   <img src="SVG Components/Coin.svg" width="700" title="Coin list"/>
   &nbsp;&nbsp;
   <img src="SVG Components/Price chart.svg" width="700" title="Price chart"/>
