@@ -91,6 +91,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Oxen (OXEN).svg" width="45" title="Oxen"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Ren (REN).svg" width="45" title="Ren"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Monnos (Mns).svg" width="45" title="Monnos"/>
