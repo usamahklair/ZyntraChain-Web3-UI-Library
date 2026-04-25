@@ -91,6 +91,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Rise (Rise).svg" width="45" title="Rise"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Sibcoin (Sib).svg" width="45" title="Sibcoin"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Oxen (OXEN).svg" width="45" title="Oxen"/>
