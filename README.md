@@ -204,4 +204,4 @@ Simply copy any SVG from the `SVG Version` folder and use it in your project:
 
 ## 📄 License
 
-Open source — free to use in personal and commercial projects.
+Open source — free to use in personal projects.
