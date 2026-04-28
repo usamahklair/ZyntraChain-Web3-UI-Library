@@ -91,6 +91,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Verasity (VRA).svg" width="45" title="Verasity"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Bottos (Bto).svg" width="45" title="Bottos"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Strike (STRK).svg" width="45" title="Strike"/>
