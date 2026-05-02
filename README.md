@@ -91,6 +91,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Loom Network (LOOM).svg" width="45" title="Loom Network"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Aeternity (AE).svg" width="45" title="Aeternity"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Chainx (Pcx).svg" width="45" title="Chainx"/>
