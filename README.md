@@ -204,7 +204,7 @@ UI Components and 650+ Icons for the most popular cryptocurrencies and blockchai
 
 ## 🚀 Usage
 
-Simply copy any SVG from the `SVG Version` folder and use it in your project:
+Simply copy any PNG/SVG from the `SVG Version` folder and use it in your project:
 
 ```html
 <img src="SVG Version/Bitcoin (BTC).svg" width="32" height="32" />
