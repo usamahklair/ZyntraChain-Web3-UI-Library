@@ -91,6 +91,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Burst (Burst).svg" width="45" title="Burst"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/JUST (JST).svg" width="45" title="Just"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Loom Network (LOOM).svg" width="45" title="Loom Network"/>
