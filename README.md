@@ -91,6 +91,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Everex(Evx).svg" width="45" title="Everex"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Crown (Crw).svg" width="45" title="Crown"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Boscoin (Bos).svg" width="45" title="Boscoin"/>
