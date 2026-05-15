@@ -91,6 +91,9 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Rally (RLY).svg " width="45" title="Rally"/>
+  &nbsp;&nbsp;
+  <img src="SV
   <img src="SVG Version/Ardor (ARDR).svg " width="45" title="Ardor"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Bytom (BTM).svg" width="45" title="Bytom"/>
