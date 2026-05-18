@@ -91,6 +91,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Salt (Salt).svg" width="45" title="Salt"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Sora (XOR).svg" width="45" title="Sora"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Cortex (Ctxc).svg" width="45" title="Cortex"/>
