@@ -91,6 +91,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Hathor (HTR).svg" width="45" title="Hathor"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Cartesi (CTSI).svg" width="45" title="Cartesi"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Dusk Network (DUSK).svg" width="45" title="Dusk Network"/>
