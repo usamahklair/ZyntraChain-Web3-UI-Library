@@ -91,6 +91,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Crust Network (CRU).svg" width="45" title="Crust Network"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Aergo (AERGO).svg" width="45" title="Aergo"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Hathor (HTR).svg" width="45" title="Hathor"/>
