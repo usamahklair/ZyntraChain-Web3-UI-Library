@@ -87,9 +87,12 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 📂 **[See All Icons →](./SVG%20Version)**
 
 ---
+
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/BitTorrent (BTT).svg" width="45" title="BitTorrent"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Tellor (TRB).svg" width="45" title="Tellor"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Hxro (HXRO).svg" width="45" title="Hxro"/>
