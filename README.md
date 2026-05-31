@@ -91,6 +91,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Celsius (CEL).svg" width="45" title="Celsius"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Klever (KLV).svg" width="45" title="Klever"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Gitcoin (GTC).svg" width="45" title="Gitcoin"/>
