@@ -91,6 +91,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Achain (Act).svg" width="45" title="Achain"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Fusion (Fsn).svg" width="45" title="Fusion"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Linear (LINA).svg" width="45" title="Linear"/>
