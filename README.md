@@ -91,6 +91,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Bluzelle (BLZ).svg" width="45" title="Bluzelle"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Gulden (Nlg).svg" width="45" title="Gulden"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Achain (Act).svg" width="45" title="Achain"/>
