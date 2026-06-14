@@ -91,6 +91,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/aelf (ELF).svg" width="45" title="aelf"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/BASIC (BASIC).svg" width="45" title="BASIC"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Alitas (ALT).svg" width="45" title="Alitas"/>
