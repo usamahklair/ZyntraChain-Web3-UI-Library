@@ -296,4 +296,4 @@ Simply copy any PNG/SVG from the `SVG Version` folder and use it in your project
 
 ## 📄 License
 
-Open source — free to use in personal projects.
+Open source - free to use in personal projects.
