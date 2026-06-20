@@ -1,6 +1,6 @@
 <h1 align="center">Zyntrachain - Web3 UI Library</h1>
 
-An open-source Web3 library of vector-based UI components for blockchain and Web3 applications, designed to help developers and designers build consistent, user-friendly decentralized products for the community.
+An open-source Web3 library of vector-based UI components for blockchain and Web3 applications, built to help developers and designers build consistent, user-friendly decentralized products for the community.
 
 <br>
 
