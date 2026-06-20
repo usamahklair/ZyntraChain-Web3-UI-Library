@@ -91,6 +91,8 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Datum (Dat).svg" width="45" title="Datum"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/AXEL (AXEL).svg" width="45" title="AXEL"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Airswap (Ast).svg" width="45" title="Airswap"/>
