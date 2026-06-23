@@ -91,6 +91,8 @@
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Educare (Ekt).svg" width="45" title="Educare"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Colossusxt (Colx).svg" width="45" title="Colossusxt"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Cybervein (Cvt).svg" width="45" title="Cybervein"/>
