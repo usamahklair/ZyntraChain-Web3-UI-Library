@@ -91,6 +91,8 @@
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Colossusxt (Colx).svg" width="45" title="Colossusxt"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Cybervein (Cvt).svg" width="45" title="Cybervein"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Arcblock (Abt).svg" width="45" title="Arcblock"/>
