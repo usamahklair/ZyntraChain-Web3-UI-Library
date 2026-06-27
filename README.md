@@ -91,6 +91,8 @@
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Egoras (EGR).svg" width="45" title="Egoras"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Bonfida (FIDA).svg" width="45" title="Bonfida"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Dent (DENT).svg" width="45" title="Dent"/>
