@@ -91,6 +91,8 @@
 ## 🕐 Recently Added
 
 <p align="left">
+  <img src="SVG Version/Ion (Ion).svg" width="45" title="Ion"/>
+  &nbsp;&nbsp;
   <img src="SVG Version/Grin (Grin).svg" width="45" title="Grin"/>
   &nbsp;&nbsp;
   <img src="SVG Version/Egoras (EGR).svg" width="45" title="Egoras"/>
