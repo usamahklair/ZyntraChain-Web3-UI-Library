@@ -303,8 +303,6 @@
   &nbsp;&nbsp;
   <img src="SVG Version/Waves (WAVES).svg" width="45" title="Waves"/>
   &nbsp;&nbsp;
-  <img src="SVG Version/VeChain (VET).svg" width="45" title="VeChain"/>
-  &nbsp;&nbsp;
   <img src="SVG Version/Uniswap (UNI).svg" width="45" title="Uniswap"/>
   &nbsp;&nbsp;
   <img src="SVG Version/TRON (TRX).svg" width="45" title="TRON"/>
